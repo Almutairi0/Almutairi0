@@ -17,9 +17,6 @@ I'm a software engineer and student with a strong focus on **cybersecurity**. I 
 - **[Create a Student Management System using Encapsulation](https://github.com/Almutairi0/Create-a-Student-Management-System-using-Encapsulation-)**  
   A Java project showcasing encapsulation principles in a basic student management system.
 
-- **File Synchronization Tool**  
-  Automating secure file transfers between Windows and Linux systems using SCP and Java.
-
 - **Media Server Setup**  
   Built a local media server with Plex for personal use, ensuring seamless media access.
 
