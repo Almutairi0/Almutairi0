@@ -6,7 +6,7 @@ I'm a software engineer and student with a strong focus on **cybersecurity**. I 
 
 ## 💼 What I Do
 
-- **Software Development**: Experienced with Java, JavaScript, and Python for both web and backend development.
+- **Software Development**: Experienced with Java.
 - **Cybersecurity Enthusiast**: Actively enhancing my skills with hands-on projects and coursework.
 - **Server Management**: Working with local and Linux servers, managing media servers, file synchronization, and SCP file transfers.
 
@@ -25,7 +25,6 @@ I'm a software engineer and student with a strong focus on **cybersecurity**. I 
 ## 🌱 Currently Learning
 
 - **Cybersecurity**: Improving my skills with hands-on projects and certifications.
-- **Advanced Java**: Exploring Maven, SCP integrations, and server automation.
 
 ---
 
