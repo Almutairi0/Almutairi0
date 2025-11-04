@@ -30,7 +30,7 @@ I'm a software engineer and student with a strong focus on **cybersecurity**. I 
 
 ## ⚡ Fun Facts
 
-- Big fan of *Game of Thrones*.
+- *I USE ARCH BTW*.
   
 ---
 
