@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abdullah </h1>
 
 <p align="center">
-   <strong>Software Engineering Student</strong> |  <strong>Media Server & POS Developer</strong> |  <strong>Future RHCSA</strong>
+   <strong>Software Engineering Student</strong>
 </p>
 
 ---
