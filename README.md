@@ -21,16 +21,9 @@
 
 ###  Tech & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,linux,git,github,python" />
 </p>
 
----
-
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Almutairi0&show_icons=true&theme=tokyonight" alt="Abdullah's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almutairi0&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
-</p>
 
 ---
 
