@@ -24,9 +24,6 @@
   <img src="https://skillicons.dev/icons?i=java,mysql,linux,git,github,python" />
 </p>
 
-
----
-
 <p align="center">
   <a href="https://github.com/Almutairi0">
   </a>
