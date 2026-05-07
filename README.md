@@ -1,29 +1,5 @@
-<h1 align="center">Hi there, I'm Abdullah </h1>
-
-<p align="center">
-   <strong>Software Engineering Student</strong>
-</p>
-
----
-
-###  What I'm Working On
--  Running a **Local Media Server** to organize and stream content
--  Exploring **Linux system administration** and **automation scripts**
-
----
-
-###  Goals
--  Achieve **Red Hat Certified System Administrator (RHCSA)**
--  Improve expertise in **Java**, **Linux**, and **network systems**
-
----
-
-###  Tech & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,linux,git,github,python" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Almutairi0">
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img src="dark_mode.svg">
+</picture>
