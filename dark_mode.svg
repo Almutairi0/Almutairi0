@@ -1,44 +1,60 @@
-<svg width="695" height="556" viewBox="0 0 695 556" xmlns="http://www.w3.org/2000/svg">
-  <rect width="695" height="556" rx="8" ry="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-  <text x="22" y="44" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="22" y="62" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠀⠀⡌⡀⠉⠓⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⠄⡄⠀</text>
-  <text x="22" y="80" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠀⠀⣇⢧⣶⡠⣬⣿⣶⣤⣤⣠⣴⣦⣤⣄⣀⠀⣀⣠⠞⢛⣡⣴⣾⣾⠀</text>
-  <text x="22" y="98" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠀⠀⠹⡜⣿⣿⣯⠻⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣩⣽⣿⡿⡽⠀</text>
-  <text x="22" y="116" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠀⠀⠀⢺⠄⡻⠀⠐⢻⣿⣿⣿⣿⠻⢻⠿⢻⣿⢿⣿⣿⣿⣿⡿⡕⠁⠀</text>
-  <text x="22" y="134" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠀⠀⠀⢨⡆⠁⠀⠀⠀⠀⣿⡟⠃⠀⠈⠀⠀⠈⠻⢻⣿⣿⠏⢠⠃⠀⠀</text>
-  <text x="22" y="152" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠀⠀⠀⢨⠃⠀⣀⣰⡄⢰⡿⠁⢠⣆⣀⠀⠀⠀⠀⠈⠻⢧⠀⢇⠀⠀⠀</text>
-  <text x="22" y="170" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠀⠀⠀⠞⠀⣼⣿⣾⡗⢸⠇⣰⣿⣿⣿⣿⣷⣤⠤⠀⢀⢈⠀⢸⡂⠀⠀</text>
-  <text x="22" y="188" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠈⠐⠤⠆⢼⣿⣿⠋⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣚⣟⠀⠀⢳⡄⠀</text>
-  <text x="22" y="206" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠤⠤⢴⠧⣐⡺⢅⣤⣶⣶⡀⠀⠀⣻⣿⣿⠟⣻⣿⣿⡿⠷⢶⡀⠀⢻⠂</text>
-  <text x="22" y="224" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⢈⡩⠿⢷⠒⠒⣺⣿⣿⣿⣧⣶⠠⠈⢨⣻⣿⡿⣿⣿⣿⡤⡄⢩⣬⡿⠆</text>
-  <text x="22" y="242" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠈⠀⠀⠀⢚⡃⢀⣿⣿⣛⣿⣛⣻⣯⣽⣿⣿⣿⣿⣮⣿⣿⣿⣶⣦⣽⡍⠀</text>
-  <text x="22" y="260" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠀⠀⠀⢸⣅⢹⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⠻⠃⠀</text>
-  <text x="22" y="278" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠀⠀⠀⠈⠋⠘⠻⠋⢿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠛⠛⠁⠁⠀⠀⠀⠀</text>
-  <text x="22" y="296" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6e7681" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-  <text x="256.4" y="44" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#3fb950">yourname</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">host</tspan><tspan fill="#8b949e"> ——————————————————————————————————————</tspan></text>
-  <text x="256.4" y="62" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">OS</tspan><tspan fill="#8b949e">: ...................... </tspan><tspan fill="#e3b341">Windows 11, macOS 15, Linux</tspan></text>
-  <text x="256.4" y="80" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Uptime</tspan><tspan fill="#8b949e">: .................. </tspan><tspan fill="#c9d1d9">XX years, X months, XX days</tspan></text>
-  <text x="256.4" y="98" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Host</tspan><tspan fill="#8b949e">: .................... </tspan><tspan fill="#c9d1d9">Your Company / School</tspan></text>
-  <text x="256.4" y="116" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Kernel</tspan><tspan fill="#8b949e">: .................. </tspan><tspan fill="#c9d1d9">Your Role / Title</tspan></text>
-  <text x="256.4" y="134" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">IDE</tspan><tspan fill="#8b949e">: ..................... </tspan><tspan fill="#c9d1d9">VSCode, Cursor, Neovim</tspan></text>
-  <text x="256.4" y="170" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Languages.Programming</tspan><tspan fill="#8b949e">: ....... </tspan><tspan fill="#3fb950">Python, JavaScript, C++</tspan></text>
-  <text x="256.4" y="188" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Languages.Computer</tspan><tspan fill="#8b949e">: .......... </tspan><tspan fill="#3fb950">HTML, CSS, JSON, YAML</tspan></text>
-  <text x="256.4" y="206" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Languages.Real</tspan><tspan fill="#8b949e">: .............. </tspan><tspan fill="#3fb950">English, Other</tspan></text>
-  <text x="256.4" y="242" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Hobbies.Software</tspan><tspan fill="#8b949e">: ............ </tspan><tspan fill="#c9d1d9">Open Source, Side Projects</tspan></text>
-  <text x="256.4" y="260" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Hobbies.Hardware</tspan><tspan fill="#8b949e">: ............ </tspan><tspan fill="#c9d1d9">Tinkering, 3D Printing</tspan></text>
-  <text x="256.4" y="278" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Hobbies.IRL</tspan><tspan fill="#8b949e">: ................. </tspan><tspan fill="#c9d1d9">Gaming, Cooking</tspan></text>
-  <text x="256.4" y="296" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#e3b341">- Contact </tspan><tspan fill="#8b949e">—————————————————————————————————————————</tspan></text>
-  <text x="256.4" y="314" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Email</tspan><tspan fill="#8b949e">: ................... </tspan><tspan fill="#bc8cff">you@yourdomain.com</tspan></text>
-  <text x="256.4" y="332" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">GitHub</tspan><tspan fill="#8b949e">: .................. </tspan><tspan fill="#bc8cff">yourusername</tspan></text>
-  <text x="256.4" y="350" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">LinkedIn</tspan><tspan fill="#8b949e">: ................ </tspan><tspan fill="#bc8cff">Your Name</tspan></text>
-  <text x="256.4" y="368" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Discord</tspan><tspan fill="#8b949e">: ................. </tspan><tspan fill="#bc8cff">yourusername</tspan></text>
-  <text x="256.4" y="386" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Website</tspan><tspan fill="#8b949e">: ................. </tspan><tspan fill="#bc8cff">https://yoursite.com</tspan></text>
-  <text x="256.4" y="404" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#e3b341">- GitHub Stats </tspan><tspan fill="#8b949e">————————————————————————————————————</tspan></text>
-  <text x="256.4" y="422" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Repos</tspan><tspan fill="#8b949e">: ................. </tspan><tspan fill="#e3b341">XX</tspan><tspan fill="#c9d1d9"> {Contributed: XX} | Stars: </tspan><tspan fill="#e3b341">XX</tspan></text>
-  <text x="256.4" y="440" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Commits</tspan><tspan fill="#8b949e">: ............... </tspan><tspan fill="#e3b341">XXX</tspan><tspan fill="#c9d1d9"> | Followers: </tspan><tspan fill="#e3b341">XX</tspan></text>
-  <text x="256.4" y="458" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Lines of Code</tspan><tspan fill="#8b949e">: ......... </tspan><tspan fill="#c9d1d9">XXX,XXX</tspan><tspan fill="#8b949e"> ( </tspan><tspan fill="#3fb950">XXX,XXX++</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#f85149">XXX,XXX--</tspan><tspan fill="#8b949e"> )</tspan></text>
-  <text x="256.4" y="476" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#e3b341">- Fun Facts </tspan><tspan fill="#8b949e">———————————————————————————————————————</tspan></text>
-  <text x="256.4" y="494" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Favorite Animal</tspan><tspan fill="#8b949e">: ............. </tspan><tspan fill="#c9d1d9">Raccoon</tspan></text>
-  <text x="256.4" y="512" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Coffee or Tea</tspan><tspan fill="#8b949e">: ............... </tspan><tspan fill="#c9d1d9">Always</tspan></text>
-  <text x="256.4" y="530" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">.</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#79c0ff">Currently Learning</tspan><tspan fill="#8b949e">: .......... </tspan><tspan fill="#c9d1d9">Something Cool</tspan></text>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<text x="120.5" y="120" fill="#24292f" class="ascii">
+<tspan x="120.5" y="120">	%*+++*+****++*+=+*++++=---::........  .... ..........-*		</tspan>
+<tspan x="120.5" y="50">	#*****+*+===--:::::..               ...:.........::...:	</tspan>
+<tspan x="120.5" y="70">	+---::::---:.   .                   ::.......:::::::::::	</tspan>
+<tspan x="120.5" y="90">	-    .=****#**=:                   .:....::.:::::::::::	</tspan>
+<tspan x="120.5" y="110">	-    =#+=-==+*##+-.                .:::::::::::....::::	</tspan>
+<tspan x="120.5" y="130">	- ..-*+-----+++*##*:...            .:::::-::::---=-:.:	</tspan>
+<tspan x="120.5" y="120">	-  :+#=--:::===++**+-::            .:::::-=+*####***=::	</tspan>
+<tspan x="120.5" y="170">	- .:+#=:::..:-==++=--::::::-::. ...:::-==*##**++=--+*-:	</tspan>
+<tspan x="120.5" y="190">	- .:+#+-:.....:-++=-====+++===-:----::--==+++==-:--=*-:	</tspan>
+<tspan x="120.5" y="210">	- .:=**+=:...:-++*+++++++++====-:------:::---:...::=+::	</tspan>
+<tspan x="120.5" y="230">	-  .-+#+=-:.:=++==+++++++++++=--::::--=-----:....:-+=::	</tspan>
+<tspan x="120.5" y="250">	- ..:=**+=:-+*++++=+++====+*+==-::---======-=:.:-=+=:::	</tspan>
+<tspan x="120.5" y="270">	-  .:-+*+=-+++++++*******#+*#*=-::::=+**=-=---:-=+=::::	</tspan>
+<tspan x="120.5" y="290">	-  ..-+=--++**##**%#####**==*#=-::::-+#+++++=---++-.:::	</tspan>
+<tspan x="120.5" y="310">	-   .-+==+**####*++*+-:.....:=+=-::::=-:-+*#*=--=-::::- 	</tspan>
+<tspan x="120.5" y="330">	-   :+=++*####*+-:....::. ..::-=-:::::.  ..=*+**=-:::::	</tspan>
+<tspan x="120.5" y="350">	-   -=+***+===-:..:..::...:::----::::::..:...-+**+-::::	</tspan>
+<tspan x="120.5" y="370">	-  -+++++===:...........:.:-+**##*+====-..:....-++=-:::	</tspan>
+<tspan x="120.5" y="390">	- .=***+=---::::....:::..-+#%###*+=-:::-=-......::---:-	</tspan>
+<tspan x="120.5" y="410">	- :+*+++==--:::::-------+#%####*:::......-=......:--:::	</tspan>
+<tspan x="120.5" y="430">	- :+**++==--:::::::::-+#%######+-.  :. ...*=......:-:.:	</tspan>
+<tspan x="120.5" y="450">	- :+*+++=-::::::::::-+*####*****=:.:.   .:*+::..::--:::	</tspan>
+<tspan x="120.5" y="470">	- :+**++==------==--=**####**+++=:......-+*=:::::-=-:::	</tspan>
+<tspan x="120.5" y="490">	- :+##*+++=====++**+*******+=--:::....:-+*+-:..:-==:.:	</tspan>
+<tspan x="120.5" y="510">	- .-###**++==-----====+**#****+==-::-===+==--:::-==-:::	</tspan>
+<tspan x="120.5" y="530">	- .:-+##**++===--:::..::-=-=+===------::..::::-===-::--	</tspan>
+<tspan x="120.5" y="550">	-....-*###*++====---::.:.. ................::-=++=:.:--	</tspan>
+<tspan x="120.5" y="570">	=.:.:-+####*+++++==--:::......:::::::::-:--===++=-:..:-	</tspan>
+<tspan x="120.5" y="590">	-....:+#%#***++++++==-::::::.::--:---::---=+++++-:-::.-	</tspan>
+<tspan x="120.5" y="610">	- ...-+*##****+=++===-::--::.:-------=-----=++++-:==-:-	</tspan>
+<tspan x="120.5" y="630">	=::::-=*##****++===+=-:---:-:-====---=+====+++++-:-=-:-	</tspan>
+<tspan x="120.5" y="650">	=:::::-*###*+++=+=++==-==----=++==-:::====+====+--==-::	</tspan>
+<tspan x="120.5" y="670">	=:::::-+###*++==+++*+===+--+++++=:--=-=+==+*===+====-::	</tspan>
+<tspan x="120.5" y="690">	=.::::-+###**+=+*++++---=--=+*+++---++++++=*===++==+-::	</tspan>
+<tspan x="120.5" y="710">	=:::::-=*###*+=+*+--++=--==-=*+*+-==++*+++-+=-==++++=::	</tspan>
+<tspan x="120.5" y="730">	=.::.::-+*##*++**+---++--*+-=++*+-++++++=*+-+==+++**=::	</tspan>
+<tspan x="120.5" y="750">	#-::::--=*##*****=-===+++*+=**+*+=**+++*++*+====+***=:+	</tspan>
+
+</text>
 </svg>
